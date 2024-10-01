@@ -1,1 +1,1 @@
-## Hi. I'm Qalandarov Qalandar src="https://media3.giphy.com/media/Rh5sd5crBURbvoy3A4/giphy.webp?cid=ecf05e47vboeve4llbikw0hg93ipq72yvdw1atjsq7p79h13&ep=v1_gifs_related&rid=giphy.webp&ct=g" max="30px" >
+## Hi. I'm Qalandarov Qalandar👋
