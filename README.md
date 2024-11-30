@@ -19,7 +19,7 @@ Welcome to my GitHub! I specialize in creating robust, scalable applications tha
 
 ## Featured Projects  
 
-### **[E-commerce Platform](https://github.com/Qalandar01/Ecommerce-Project)**  
+### **[E-commerce Platform](https://github.com/Qalandar01/newEcommerce)**  
 #### Overview:  
 A Jakarta EE-based e-commerce website designed for seamless product management and an excellent user experience.  
 
