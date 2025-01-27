@@ -1,12 +1,12 @@
 # Hi, I'm Qalandar 👋  
-### Java Developer | Jakarta EE Enthusiast | E-commerce Specialist  
+### Java Developer | Jakarta EE Enthusiast | Spring Boot Specialist  
 
 Welcome to my GitHub! I specialize in creating robust, scalable applications that solve real-world problems. With expertise in Java and Jakarta EE, I take pride in crafting efficient back-end systems and integrations.
 
 🌟 **Key Skills:**  
 - **Programming:** Java, Jakarta EE, Object-Oriented Programming (OOP), Multithreading  
 - **Database Management:** PostgreSQL  
-- **Frameworks and Tools:** ORM (e.g., JPA), REST APIs, Maven, Spring Framework, Spring Boot
+- **Frameworks and Tools:** ORM (e.g., JPA), REST APIs, Maven, Spring Framework, Spring Boot,Spring JDBC,Hibernate
 - **Principles:** SOLID, Clean Code  
 - **Additional Skills:** Building Telegram Bots using the Telegram Bot API  
 
@@ -31,7 +31,7 @@ A Jakarta EE-based e-commerce website designed for seamless product management a
 #### Tech Stack:  
 - **Back-End:** Jakarta EE, JPA  
 - **Database:** PostgreSQL  
-- **Tools:** Maven, Docker  
+- **Tools:** Maven 
 
 ---
 
