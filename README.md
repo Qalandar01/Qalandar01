@@ -14,6 +14,10 @@ Welcome to my GitHub! I specialize in creating robust, scalable applications tha
 📫 **Contact:**  
 - [Email](mailto:qalandar2201@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/qalandar-qalandarov-194107337/)  
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Qalandar01&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
